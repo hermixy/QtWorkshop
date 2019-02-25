@@ -10,7 +10,7 @@ Drawer {
     property var selected : null//originalList.get(0)
     property string selectedTopic : ""
     property bool showUploadPanel : false
-    property url currentPage : showUploadPanel ? "qrc:/UploadPanel.qml" : selected ? selected.docRoot+uidAlias+"/"+ selectedTopic: "qrc:/Welcome.qml"
+    property url currentPage : showUploadPanel ? "qrc:/UploadPanel.qml" : selected ? selected.docRoot+selected.uidAlias+"/"+ selectedTopic: "qrc:/Welcome.qml"
 
     AttendeesList{
         id:originalList
