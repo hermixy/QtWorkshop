@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>LeftMenu.qml</file>
+        <file>TopicSelection.qml</file>
+        <file>AttendeesList.qml</file>
+        <file>Welcome.qml</file>
+        <file>attendees/charby/TTSMain.qml</file>
+        <file>attendees/charby/SoundBoxMain.qml</file>
+        <file>attendees/charby/MapMain.qml</file>
+        <file>attendees/charby/CameraMain.qml</file>
+        <file>attendees/template/TTSMain.qml</file>
+        <file>attendees/template/CameraMain.qml</file>
+        <file>attendees/template/SoundBoxMain.qml</file>
+        <file>attendees/template/MapMain.qml</file>
+        <file>component/FAButton.qml</file>
+        <file>component/fontawesome-webfont.ttf</file>
+        <file>attendees/charby/profile.png</file>
+        <file>attendees/template/profile.png</file>
+        <file>component/NotificationPopup.qml</file>
+        <file>attendees/charby/BTMain.qml</file>
+        <file>attendees/charby/ChartsMain.qml</file>
+        <file>attendees/charby/FlickrMain.qml</file>
+        <file>attendees/charby/SensorsMain.qml</file>
+        <file>attendees/template/BTMain.qml</file>
+        <file>attendees/template/SensorsMain.qml</file>
+        <file>attendees/template/FlickrMain.qml</file>
+        <file>attendees/template/ChartsMain.qml</file>
+        <file>heightmap.png</file>
+        <file>UploadPanel.qml</file>
+    </qresource>
+</RCC>
